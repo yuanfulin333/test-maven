@@ -9,4 +9,5 @@ package com.yuanfulin.mapper;
  * @Author:袁福林
  */
 public interface MapperTest {
+
 }
